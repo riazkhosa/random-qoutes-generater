@@ -3,7 +3,7 @@
 A simple and beginner-friendly Random Quote Generator built using **HTML**, **CSS**, and **JavaScript**. This tool displays random quotes each time you click the "Generate Quote" button. You can view the live demo and explore more tools on my website.
 
 ### Live Demo
-Check out the live demo here: [Random Quote Generator Demo](https://riazkhosa.github.com/random-quotes-generater)
+Check out the live demo here: [Random Quote Generator Demo](https://github.com/riazkhosa/random-qoutes-generater/))
 
 ---
 
